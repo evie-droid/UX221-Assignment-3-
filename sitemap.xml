@@ -32,12 +32,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/duca-di-saragnano-alchymia-primitivo/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/duca-di-saragnano-alchymia-primitivo/
+            http://localhost:8000/products/one-pound-per-acre-cabernet-sauvignon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/chill-bill-spritzy-red/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/nico-lazaridi-cavalieri-xinomavro/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/merlot-polaire/
         </loc>
     </url>
     <url>
