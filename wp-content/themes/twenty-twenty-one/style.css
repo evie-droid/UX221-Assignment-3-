@@ -6,3 +6,7 @@ Template:       twentytwentyone
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+body {
+	color: red
+}

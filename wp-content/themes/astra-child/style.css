@@ -1,0 +1,19 @@
+/*
+Theme Name:     Astra child
+Description:    
+Author:         evelynchan180
+Template:       astra
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+body{ 
+font-family: georgian
+}
+ 
+h1{ 
+background-color: lightblue;
+}
+h2{
+	background-color: greenyellow
+}
