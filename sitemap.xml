@@ -2,27 +2,7 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/cutwater-lemon-drop-martini/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/cutwater-tequila-paloma/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/sample-page/
         </loc>
     </url>
     <url>
@@ -53,11 +33,6 @@
     <url>
         <loc>
             http://localhost:8000/products/merlot-polaire/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/category/uncategorized/
         </loc>
     </url>
     <url>
